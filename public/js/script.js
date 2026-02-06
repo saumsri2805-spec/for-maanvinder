@@ -17,45 +17,27 @@ const answers_no = {
         "Ok, Let's just start over.."
     ],
     french: [
-        "Non",
-        "Tu es sûr ?",
-        "Tu es vraiment sûr ??",
-        "Tu es vraiment vraiment sûr ???",
-        "Réfléchis encore?",
-        "Tu ne crois pas aux deuxièmes chances ?",
-        "Pourquoi tu es si froid?",
-        "Peut-être, on peut en parler ?",
-        "Je ne vais pas demander encore une fois!",
-        "D'accord, maintenant ca me fait mal!",
-        "Tu es juste méchant!",
-        "Pourquoi tu me fais ça?",
-        "Donnez-moi une chance plz!",
-        "Je te supplie d'arrêter!",
-        "D'accord, recommençons.."
-    ],
-    thai: [
-        "ไม่อ่ะ",
-        "แน่ใจจริงๆหรอคะ?",
-        "แน่ใจจริงๆ จริงๆนะคะ?",
-        "อย่าบอกนะว่านี่แน่ใจสุดๆแล้วจริงๆ ?",
-        "ลองคิดดูอีกทีหน่อยสิคะ..",
-        "ขอโอกาศที่สองทีค่ะ..",
-        "อย่าเย็นชาสิคะ กระซิกๆ",
-        "ขอร้องนะคะ",
-        "น้าาาๆๆๆๆๆ",
-        "เราจะร้องไห้เอานะ กระซิกๆ",
-        "จะเอางี้ๆจริงหรอคะ",
-        "ฮือออออ",
-        "ขอโอกาศครั้งที่สองที่ค่ะ!",
-        "ขอร้องละค่าาา",
-        "โอเคค่ะ.. งั้นเริ่มใหม่ !"
+        "haye haye",
+        "main to mar gayi",
+        "mei toh toot ke bikhar gayi",
+        "uyi amma",
+        "uyi amma",
+        "uyi ammaaaa",
+        "chui mui",
+        "si hiraniya",
+        "kaale bhediyo",
+        "se dar gayi",
+        "uee amma",
+        "uee amma",
+        "uee amma",
+        "bas",
+        "aage lyrics nahi aate"
     ]
 };
 
 answers_yes = {
     "english": "Yes",
-    "french": "Oui",
-    "Thailand": "เย่ คืนดีกันแล้วน้า"
+    "french": "Oui Amma"
 }
 
 let language = "english"; // Default language is English
