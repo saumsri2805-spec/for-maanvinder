@@ -106,7 +106,7 @@ function changeLanguage() {
     // Update question heading
     const questionHeading = document.getElementById("question-heading");
     if (language === "french") {
-        questionHeading.textContent = "Tu veux être mon valentin?";
+        questionHeading.textContent = "Bruh?";
     } else if (language === "thai") {
         questionHeading.textContent = "คืนดีกับเราได้อ่ะป่าว?";
     } else {
@@ -126,10 +126,10 @@ function changeLanguage() {
     // Update success message
     const successMessage = document.getElementById("success-message");
     if (language === "french") {
-        successMessage.textContent = "Yepppie, à bientôt :3";
+        successMessage.textContent = "Bruh";
     } else if (language === "thai") {
         successMessage.textContent = "ฮูเร่ คืนดีกันแล้วน้า :3";
     } else {
-        successMessage.textContent = "Yepppie, see you sooonnn :3";
+        successMessage.textContent = "Knew you couldnt resist :*";
     }
 }
