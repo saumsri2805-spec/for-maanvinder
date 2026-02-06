@@ -12,9 +12,9 @@ const answers_no = {
         "Ok now this is hurting my feelings!",
         "You are now just being mean!",
         "Why are you doing this to me?",
-        "Please give me a chance!",
-        "I am begging you to stop!",
-        "Ok, Let's just start over.."
+        "STOP!",
+        "I am begging you to STOP!",
+        "There's no escape :)"
     ],
     french: [
         "haye haye",
